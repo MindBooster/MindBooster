@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Sanjana Das 😎   
+### I'm Sanjana Das!😎   
 
 <!--
 **MindBooster/MindBooster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

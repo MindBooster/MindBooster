@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there 👋</h1>
-<h1 align="center">I'm Sanjana Das😎</h1>
-<h3 align="center">One who comes up with mind boosting ideas!!!🤯</h3>
+<h2 align="center">Hi there 👋</h2>
+<h2 align="center">I'm Sanjana Das😎</h2>
+<h3 align="center">There's no place like 127.0.0.1.🤯</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
